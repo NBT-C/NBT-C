@@ -25,6 +25,6 @@ As a Java developer, my primary aim is to develop robust, efficient, and scalabl
 
 ## Views Counter
 
-![Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=$.views&url=https://api.countapi.xyz/hit/NBT-C/README.md)
+![Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=$.value&url=https://api.countapi.xyz/hit/nbt-c/readme.md)
 
 Thanks for stopping by! Feel free to reach out to me at الشيخ نبتس#8319 if you'd like to connect or learn more about my work.
